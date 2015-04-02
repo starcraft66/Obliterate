@@ -1,0 +1,9 @@
+name: ${project.artifactId}
+author: Tristan
+version: ${project.version}
+main: co.tdude.obliterate.Main
+
+commands:
+   kill:
+      description: Kills you.
+      usage: /<command>
